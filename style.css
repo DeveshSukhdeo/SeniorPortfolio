@@ -3,7 +3,7 @@ body {
   font-family: Arial, sans-serif;
   background-color: #0b0c1a;
   color: #f0f0f0;
-  background-image: url('starry_sun.jpg');
+  background-image: url('Images/starry_sun.jpg');
   background-size: cover;
   background-repeat: repeat-y;
   background-attachment: fixed;
@@ -145,7 +145,7 @@ body {
 .hero {
   height: 90vh;
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-              url("starry_sun.jpg") center/cover no-repeat;
+              url("Images/starry_sun.jpg") center/cover no-repeat;
   display: flex;
   justify-content: center;
   align-items: center;
